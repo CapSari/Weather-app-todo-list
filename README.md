@@ -344,8 +344,8 @@ class WeatherRepositoryImpl(...) : WeatherRepository {
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/CapSari/CoolWeather.git
-   cd CoolWeather
+   git clone https://github.com/CapSari/weather-app-todo-list.git
+   cd WeatherApp
    ```
 
 2. **Build and Run**
@@ -536,16 +536,6 @@ Output: `app/build/outputs/apk/release/app-release.apk`
 - Ensure all permissions are granted
 - Verify API key is correctly configured
 - Check if device has internet connection
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 
 ## Acknowledgments
