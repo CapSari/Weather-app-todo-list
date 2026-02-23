@@ -1,6 +1,6 @@
-# CoolWeather
+# TODO list app
 
-A modern Android weather and task management application built with Jetpack Compose and Material Design 3. Features real-time weather updates with dynamic weather-reactive backgrounds and a clean task management system inspired by Google Forms.
+A modern Android TODO list application built with Jetpack Compose and Material Design 3. Features real-time weather updates with dynamic weather-reactive backgrounds and a clean task management system.
 
 ## Features
 
@@ -33,7 +33,6 @@ A modern Android weather and task management application built with Jetpack Comp
 | ![Weather Dark](screenshots/Screenshot_20260223_192614.png) | ![Weather Light](screenshots/Screenshot_20260223_192722.png) | ![Weather Refresh](screenshots/Screenshot_20260223_192709.png) |
 
 **Weather Screen Features:**
-- Google Weather-inspired clean design
 - Large temperature display with weather icon
 - Location name with last update timestamp
 - Weather details card (Humidity, Wind, Sunrise, Sunset)

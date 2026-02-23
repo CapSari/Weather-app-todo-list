@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dve.sari.coolweather"
+    namespace = "com.dve.sari.todolistapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.dve.sari.coolweather"
+        applicationId = "com.dve.sari.todolistapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
